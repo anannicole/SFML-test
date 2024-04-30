@@ -15,7 +15,7 @@ int main()
                 window.close();
         }
 
-        window.clear();
+        window.clear(Color(51,51,51));
         window.draw(shape);
         window.display();
     }

@@ -1,6 +1,7 @@
 #include "Grid.hpp"
 
 
+
 Grid::Grid(int rows, int cols)
 {
     this->rows=rows; //aqui solo iniializas las variables rols y cols que ya creaste en el .hpp
